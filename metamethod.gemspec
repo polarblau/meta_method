@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["rob@flowof.info"]
   gem.description   = %q{Query Method objects about their visibility.}
   gem.summary       = gem.description
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/robgleeson/meta_method"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
