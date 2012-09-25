@@ -15,10 +15,6 @@ __DESCRIPTION__
 
 __EXAMPLES__
    
-  You can use either style here.
-  The first example adds methods to a particular instance of Method.
-  The second example includes `MetaMethod` into the core Ruby class Method.
-
   _1._
 
 ```ruby
