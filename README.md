@@ -40,7 +40,7 @@ Add to your Gemfile:
 
 ```ruby
 group :development do 
-  gem 'metamagic'
+  gem 'metamethod'
 end
 ```
 
