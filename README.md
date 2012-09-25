@@ -29,6 +29,8 @@ __EXAMPLES__
   m.public? # => Boolean
 ```
 
+  _2._
+
 ```ruby
   require "metamethod/core_ext"
   method(:foo).public? # => Boolean
