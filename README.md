@@ -10,10 +10,8 @@ __OVERVIEW__
 
 __DESCRIPTION__
 
-  The purpose of MetaMethod is to expose a number of methods that can tell 
-  you about the visibility of a Method object (is it public, protected, or 
-  private?).
-
+  Query Method objects about their visibility (i.e: is the method public,
+  protected, or private?).
 
 __EXAMPLES__
    
