@@ -16,8 +16,8 @@ __DESCRIPTION__
 __EXAMPLES__
    
   You can use either style here.
-  The second example adds methods directly to the Method class but the first 
-  example adds methods to a select instance of Method.
+  The first example adds methods to a particular instance of Method.
+  The second example includes `MetaMethod` into the core Ruby class Method.
 
   _1._
 
