@@ -38,18 +38,7 @@ __EXAMPLES__
 
 __INSTALL__
 
-Add to your Gemfile: 
-
-```ruby
-group :development do 
-  gem 'metamethod'
-end
-```
-
-Run bundler:  
-```text
-  $ bundle install
-```
+    $ gem install metamethod
 
 __PLATFORM SUPPORT__
 
