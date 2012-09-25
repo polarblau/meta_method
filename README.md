@@ -25,8 +25,8 @@ __EXAMPLES__
 
 ```ruby
   require "metamethod"
-  method = method(:foo).extend MetaMethod
-  method.public? # => Boolean
+  m = method(:foo).extend MetaMethod
+  m.public? # => Boolean
 ```
 
 ```ruby
