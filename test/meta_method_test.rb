@@ -2,15 +2,11 @@ require_relative 'setup'
 class MetaMethodTest < Test::Unit::TestCase
   def klass 
     Class.new do
-      def a
-      end
+      def a() end
+      def b() end
+      def c() end
 
-      def b
-      end
       protected :b
-
-      def c
-      end
       private :c
     end
   end
