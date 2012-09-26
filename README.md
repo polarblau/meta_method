@@ -3,8 +3,8 @@ __OVERVIEW__
 
 | Project         | MetaMethod    
 |:----------------|:--------------------------------------------------
-| Homepage        | https://github.com/robgleeson/metamethod
-| Wiki            | https://github.com/robgleeson/metamethod/wiki
+| Homepage        | https://github.com/robgleeson/meta_method
+| Wiki            | https://github.com/robgleeson/meta_method/wiki
 | Author          | Rob Gleeson             
 
 
